@@ -6,6 +6,7 @@ tags:
 - em
 subtitle: Thúy chóa
 cover-img: "/assets/img/path.img"
+thumbnail-img: "/assets/img/thumb.png"
 ---
 
 **Nghị sĩ cam kết đảm bảo an ninh cho người Việt tại Mỹ**
