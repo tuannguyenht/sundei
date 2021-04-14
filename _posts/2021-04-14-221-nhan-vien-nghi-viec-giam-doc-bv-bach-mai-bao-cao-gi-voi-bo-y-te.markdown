@@ -6,7 +6,7 @@ categories:
 tags:
 - zing
 - bachmai
-subtitle: Bác sĩ nghỉ việc hết rồi
+subtitle: Ối zồi ôi, bác sĩ nghỉ việc hết rồi...
 cover-img: "/assets/img/path.jpg"
 thumbnail-img: "/assets/img/thumb.png"
 share-img: "/assets/img/path.jpg"
