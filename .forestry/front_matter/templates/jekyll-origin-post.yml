@@ -24,5 +24,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- _posts/2021-04-12-kiem-tra-forestry-post.md
