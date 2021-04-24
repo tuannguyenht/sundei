@@ -23,18 +23,18 @@ remote_theme: mmistakes/minimal-mistakes@4.22.0
 minimal_mistakes_skin: dark
 locale: en-US
 title_separator: "-"
-subtitle: 
+subtitle: site tagline that appears below site title in masthead
 name: Your Name
 description: An amazing website.
-url: 
-baseurl: 
-repository: 
-teaser: 
-logo: 
-masthead_title: 
+url: https://sundei.nhungngaycuoituan.com
+baseurl: /
+repository: "tuannguyenht/sundei"
+teaser: /assets/images/blog-cover.jpg
+logo: /assets/images/ghost.png
+masthead_title: " "
 words_per_minute: 200
 comments:
-  provider: 
+  provider: false
   disqus:
     shortname: 
   discourse:
