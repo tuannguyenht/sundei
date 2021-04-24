@@ -14,7 +14,7 @@ description: 'Write an awesome description for your new site here. You can edit 
 
 '
 permalink: ":title/"
-baseurl: "/"
+baseurl: ""
 url: https://sundei.nhungngaycuoituan.com
 site-twitter: 
 author: David Freeman
