@@ -27,10 +27,10 @@ subtitle: site tagline that appears below site title in masthead
 name: Your Name
 description: An amazing website.
 url: https://sundei.nhungngaycuoituan.com
-baseurl: /
-repository: "tuannguyenht/sundei"
-teaser: /assets/images/blog-cover.jpg
-logo: /assets/images/ghost.png
+baseurl: "/"
+repository: tuannguyenht/sundei
+teaser: "/assets/images/blog-cover.jpg"
+logo: "/assets/images/ghost.png"
 masthead_title: " "
 words_per_minute: 200
 comments:
