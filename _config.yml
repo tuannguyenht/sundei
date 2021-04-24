@@ -195,5 +195,6 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development	
-github: [metadata]
+    envs: development
+github:
+- metadata
