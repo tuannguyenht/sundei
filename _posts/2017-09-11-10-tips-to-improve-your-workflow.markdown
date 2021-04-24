@@ -7,7 +7,7 @@ tags:
 layout: post
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it
   and re-build the site to see your changes.
-img: workflow.jpg
+img: http://artemsheludko.com/flexible-jekyll/assets/img/workflow.jpg
 fig-caption: 
 ---
 
