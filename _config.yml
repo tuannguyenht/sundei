@@ -17,11 +17,10 @@ permalink: ":title/"
 baseurl: ''
 url: https://sundei.nhungngaycuoituan.com
 site-twitter: 
-author: David Freeman
-author-img: david-freeman.jpg
-about-author: I am a web developer focusing on front-end development. Always hungry
-  to keep learning.
-social-twitter: tuannguyen612
+author: Nguyễn Anh Tuấn
+author-img: https://i.vgy.me/HkOV8z.png
+about-author: A fulltack developer, always thinking about interesting project ideas to work on. Travels the world with a bag of curiosities.
+social-twitter: tuannguyen
 social-facebook: tuannguyen612
 social-github: tuannguyenht
 social-linkedin: 
