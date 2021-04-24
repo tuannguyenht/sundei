@@ -15,18 +15,18 @@ description: 'Write an awesome description for your new site here. You can edit 
 '
 permalink: ":title/"
 baseurl: "/"
-url: ''
+url: 'https://sundei.nhungngaycuoituan.com'
 site-twitter: 
 author: David Freeman
 author-img: david-freeman.jpg
 about-author: I am a web developer focusing on front-end development. Always hungry
   to keep learning.
-social-twitter: 
-social-facebook: 
-social-github: artemsheludko
+social-twitter: tuannguyen612
+social-facebook: tuannguyen612 
+social-github: tuannguyenht
 social-linkedin: 
-social-email: 
-discus-identifier: mr-brown
+social-email: tuannguyenht@outlook.com
+discus-identifier: mr-infinity
 analytics: 
 markdown: kramdown
 plugins:
